@@ -9,11 +9,14 @@ $ python -m venv {가상환경이름}
 
 ### Install Environment (In Window)
 ```
-$ pip3.8.exe install selenium 
+$ pip install selenium 
 
-$ pip3.8.exe install html_table_parser 
+$ pip install html_table_parser 
 
-$ pip3.8.exe install pandas
+$ pip install pandas
+
+$ pip install python-telegram-bot
+
 ```
 
 ### chromedriver.exe download 
